@@ -1,4 +1,4 @@
-namespace Olbrasoft.DemoSemiStaticContent.AspNetCore.Mvc.Models;
+namespace DemoSemiStaticContent.AspNetCore.Mvc.Models;
 
 public class ErrorViewModel
 {

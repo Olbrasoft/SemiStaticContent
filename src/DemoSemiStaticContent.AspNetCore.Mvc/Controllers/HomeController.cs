@@ -2,7 +2,7 @@ using DemoSemiStaticContent.AspNetCore.Mvc.Models;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
-namespace Olbrasoft.DemoSemiStaticContent.AspNetCore.Mvc.Controllers;
+namespace DemoSemiStaticContent.AspNetCore.Mvc.Controllers;
 public class HomeController : Controller
 {
     private readonly ILogger<HomeController> _logger;
